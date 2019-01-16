@@ -1,0 +1,100 @@
+﻿1
+00:00:00,000 --> 00:00:06,450
+Research data shall be free, digital, shared and re-usable.
+
+2
+00:00:06,450 --> 00:00:10,860
+Only while open it will reach its true potential.
+
+3
+00:00:54,100 --> 00:00:58,810
+Fostering collaboration, open data accelerates research,
+
+4
+00:00:59,870 --> 00:01:05,910
+and even years after its production, by allowing easy preliminary and meta-analyses,
+
+5
+00:01:06,850 --> 00:01:10,480
+open data can bring research on the right track.
+
+6
+00:01:11,850 --> 00:01:15,790
+Open data provides a bulletproof defense
+
+7
+00:01:15,790 --> 00:01:19,590
+against accusation of misconduct or bad scientific practices.
+
+8
+00:01:19,590 --> 00:01:23,860
+Open data increases research visibility and paper citations,
+
+9
+00:01:23,860 --> 00:01:28,940
+and well organised,  open data does also fasten the research process.
+
+10
+00:01:28,940 --> 00:01:34,010
+Trustworthy results are efficiently and safely delivered,
+
+11
+00:01:34,010 --> 00:01:37,980
+and the research gets more chances to be published and funded.
+
+12
+00:01:37,980 --> 00:01:44,780
+Governments, funding agencies, universities, and publishers
+
+13
+00:01:44,780 --> 00:01:48,890
+have recognised the importance of opening research data.
+
+14
+00:01:48,890 --> 00:01:50,720
+and now, they REQUEST it, rightfully
+
+15
+00:01:51,360 --> 00:01:56,000
+But producing open data does not come without difficulties,
+
+16
+00:01:56,000 --> 00:02:00,900
+it indeed requires to modify the research workflow,
+
+17
+00:02:00,900 --> 00:02:05,670
+a process that does not go without pain and efforts.
+
+18
+00:02:05,670 --> 00:02:12,550
+But once data management has been implemented, data opening happens in a swing.
+
+19
+00:02:12,550 --> 00:02:14,510
+Indeed the data is then already FAIR,
+
+20
+00:02:14,510 --> 00:02:21,890
+difficulties got blocked by open, Findable, Accessible, Interoperable and Re-usable data.
+
+21
+00:02:21,890 --> 00:02:24,960
+In the end, good research always wins !
+
+22
+00:02:24,960 --> 00:02:29,360
+For society as well as for their careers,
+
+23
+00:02:29,360 --> 00:02:32,970
+researchers have to gear their data:
+
+24
+00:02:32,970 --> 00:02:36,600
+they must make it open and FAIR,
+
+25
+00:02:36,600 --> 00:02:41,610
+such that their data may fly away and save the day.
+
